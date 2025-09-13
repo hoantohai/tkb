@@ -10,7 +10,7 @@ export function TimetableHeader() {
         <div className="space-y-2">
           <div className="flex items-center gap-2">
             <GraduationCap className="h-6 w-6 text-primary" />
-            <h1 className="text-2xl font-bold text-balance">THỜI KHÓA BIỂU 123</h1>
+            <h1 className="text-2xl font-bold text-balance">THỜI KHÓA BIỂU</h1>
             <Badge variant="secondary" className="ml-2">
               Số 1
             </Badge>
