@@ -6,10 +6,11 @@ const timetableData = {
   morning: {
     title: "Buổi sáng",
     periods: [
-      { time: "Tiết 1", sessions: ["", "", "", "", "GDTC - Nguyễn Hữu Tình", "GDTC - Nguyễn Hữu Tình"] },
-      { time: "Tiết 2", sessions: ["", "", "", "", "GDTC - Nguyễn Hữu Tình", "Tin - GV TH1"] },
-      { time: "Tiết 3", sessions: ["", "", "", "", "", "Tin - GV TH1"] },
-      { time: "Tiết 4", sessions: ["", "", "", "", "", ""] },
+      { time: "Tiết 1", sessions: ["", "", "", "", "", "Giáo dục thể chất (Thể dục) - GV: Nguyễn Hữu Tình"] },
+      { time: "Tiết 2", sessions: ["", "", "", "", "", "Giáo dục thể chất (Thể dục) - GV: Nguyễn Hữu Tình"] },
+      { time: "Tiết 3", sessions: ["", "", "", "", "", "Tin học - GV TH1"] },
+      { time: "Tiết 4", sessions: ["", "", "", "", "", "Tin học - GV TH1"] },
+      { time: "Tiết 5", sessions: ["", "", "", "", "", ""] },
     ],
   },
   afternoon: {
@@ -18,9 +19,9 @@ const timetableData = {
       {
         time: "Tiết 1",
         sessions: [
-          "Nhạc - Nguyễn Thị Thu Hiền",
-          "MT - Sầm Thị Thảo",
-          "TNHN - Phạm Hồng Loan",
+          "Âm Nhạc - GV: Nguyễn Thị Thu Hiền",
+          "Mĩ Thuật - Sầm Thị Thảo",
+          "Hoạt động trải nghiệm, hướng nghiệp - GV: Phạm Hồng Loan",
           "AVGT6 - GV AVGT6_2",
           "Văn - Nguyễn Thị Út Quyên",
           "Toán - Phạm Hồng Loan",
