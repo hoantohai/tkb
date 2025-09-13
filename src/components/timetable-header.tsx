@@ -17,8 +17,8 @@ export function TimetableHeader() {
           </div>
           <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
             <div className="flex items-center gap-1">
-              <Calendar className="h-4 w-4" />
-              <span>Năm học 2025-2026 • Học kỳ 1</span>
+              <Calendar className="h-4 w-4"/>
+              <span>Năm học 2025-2026</span>
             </div>
             <div className="flex items-center gap-1">
               <User className="h-4 w-4" />
@@ -34,7 +34,7 @@ export function TimetableHeader() {
           </div>
           <div className="flex items-center gap-1 text-xs text-muted-foreground">
             <Clock className="h-3 w-3" />
-            <span>Thực hiện từ ngày 05 tháng 09 năm 2025</span>
+            {/* <span>Thực hiện từ ngày 05 tháng 09 năm 2025</span> */}
           </div>
         </div>
       </div>

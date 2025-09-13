@@ -14,9 +14,9 @@ function App() {
           <div className="lg:col-span-3">
             <TimetableGrid />
           </div>
-          <div className="lg:col-span-1">
+          {/* <div className="lg:col-span-1">
             <TimetableStats />
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
