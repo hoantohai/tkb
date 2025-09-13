@@ -11,7 +11,7 @@ function App() {
       <div className="container mx-auto px-4 py-6 space-y-6">
         <TimetableHeader />
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
-          <div className="lg:col-span-3">
+          <div className="lg:col-span-4">
             <TimetableGrid />
           </div>
           {/* <div className="lg:col-span-1">
